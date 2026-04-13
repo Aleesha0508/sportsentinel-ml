@@ -1,0 +1,28 @@
+# Credentials — never commit these
+credentials.json
+.env
+*.key
+*.pem
+cat > .gitignore << 'EOF'
+# Credentials — never commit these
+credentials.json
+.env
+*.key
+*.pem
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# ML artifacts (too large for git)
+*.index
+data/raw/*.mp4
+data/variants/*.mp4
+ml/matching/faiss.index
+ml/matching/id_map.json
+
+# OS
+.DS_Store

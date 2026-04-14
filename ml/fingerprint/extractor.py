@@ -290,4 +290,8 @@ if __name__ == "__main__":
             exit()
 
         dna = build_content_dna(path)
-        print("DONE:", dna["combined_embedding"].shape)
+        from ml.matching.index import ContentDNAIndex
+
+index = ContentDNAIndex()
+index.add(dna["asset_id"], dna["combined_embedding"])
+print("DONE:", dna["combined_embedding"].shape)

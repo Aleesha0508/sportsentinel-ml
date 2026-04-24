@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "description": "SportSentinel synthetic social-media piracy corpus",
+    "version": "1.0.0",
+    "total_posts": 8,
+    "platforms": [
+      "reddit",
+      "x"
+    ],
+    "flag_taxonomy": [
+      "piracy_domain",
+      "telegram_channel",
+      "iptv_service",
+      "illegal_stream_link",
+      "illegal_rebroadcast",
+      "ppv_bypass",
+      "full_match_leak"
+    ]
+  },
+  "posts": [
+    {
+      "id": "post_001",
+      "asset_id": "demo_asset",
+      "user": "some_user_name",
+      "platform": "reddit",
+      "subreddit": "r/soccerstreams_backup",
+      "author": "u/streamer_chad99",
+      "timestamp": "2024-09-14T18:02:11Z",
+      "title": "Champions League Final FREE STREAM — no sign-up!",
+      "body": "Forget the paywall. Full HD stream at streamgoal.to/ucl-final — also available on Telegram: t.me/UCLstreams2024. Works on mobile. No buffering issues tonight lads.",
+      "upvotes": 1842,
+      "comments": 317,
+      "flags": [
+        "piracy_domain",
+        "telegram_channel"
+      ],
+      "urls_detected": [
+        "streamgoal.to/ucl-final",
+        "t.me/UCLstreams2024"
+      ],
+      "text": "Champions League Final FREE STREAM — no sign-up! Forget the paywall. Full HD stream at streamgoal.to/ucl-final — also available on Telegram: t.me/UCLstreams2024. Works on mobile. No buffering issues tonight lads. streamgoal.to/ucl-final t.me/UCLstreams2024"
+    },
+    {
+      "id": "post_002",
+      "platform": "reddit",
+      "asset_id": "demo_asset",
+      "user": "some_user_name",
+      "subreddit": "r/IPTVreviews",
+      "author": "u/iptv_guru_uk",
+      "timestamp": "2024-09-10T09:15:44Z",
+      "title": "Best IPTV services for EPL 2024/25 — ranked",
+      "body": "After testing 12 services here are the top 3: 1) TitanTV (titantvpro.com) — 10,000 channels, 4K sports. 2) StreamKing (streamking.cc) — cheapest EPL package. 3) SkyIPTV (skyiptv.net) — great for Premier League and La Liga. All include illegal rebroadcast of Sky Sports, BT Sport, ESPN.",
+      "upvotes": 4201,
+      "comments": 882,
+      "flags": [
+        "iptv_service",
+        "illegal_rebroadcast"
+      ],
+      "urls_detected": [
+        "titantvpro.com",
+        "streamking.cc",
+        "skyiptv.net"
+      ],
+      "text": "Best IPTV services for EPL 2024/25 — ranked After testing 12 services here are the top 3: 1) TitanTV (titantvpro.com) — 10,000 channels, 4K sports. 2) StreamKing (streamking.cc) — cheapest EPL package. 3) SkyIPTV (skyiptv.net) — great for Premier League and La Liga. All include illegal rebroadcast of Sky Sports, BT Sport, ESPN. titantvpro.com streamking.cc skyiptv.net"
+    },
+    {
+      "id": "post_003",
+      "platform": "reddit",
+      "asset_id": "demo_asset",
+      "user": "some_user_name",
+      "subreddit": "r/nba_streams",
+      "author": "u/throwaway_29182",
+      "timestamp": "2024-09-20T02:44:00Z",
+      "title": "NBA season opener — 5 working links inside",
+      "body": "crackstreams.biz/nba-opener | buffstreams.app/nba | sportshd.me/live | viprow.me/nba | totalsportek.io/stream1. Telegram backup: t.me/NBAFreeStream. Enjoy!",
+      "upvotes": 933,
+      "comments": 204,
+      "flags": [
+        "piracy_domain",
+        "telegram_channel",
+        "illegal_stream_link"
+      ],
+      "urls_detected": [
+        "crackstreams.biz/nba-opener",
+        "buffstreams.app/nba",
+        "sportshd.me/live",
+        "viprow.me/nba",
+        "totalsportek.io/stream1",
+        "t.me/NBAFreeStream"
+      ],
+      "text": "NBA season opener — 5 working links inside crackstreams.biz/nba-opener | buffstreams.app/nba | sportshd.me/live | viprow.me/nba | totalsportek.io/stream1. Telegram backup: t.me/NBAFreeStream. Enjoy! crackstreams.biz/nba-opener buffstreams.app/nba sportshd.me/live viprow.me/nba totalsportek.io/stream1 t.me/NBAFreeStream"
+    },
+    {
+      "id": "post_004",
+      "platform": "reddit",
+      "asset_id": "demo_asset",
+      "user": "some_user_name",
+      "subreddit": "r/MMA",
+      "author": "u/octagon_pirate",
+      "timestamp": "2024-09-28T22:00:00Z",
+      "title": "UFC 309 free stream thread (no PPV needed)",
+      "body": "PPV is a scam. Watch UFC 309 free: mmastreams.live/ufc309 — Telegram: t.me/UFCFreeHD. 720p and 1080p options. Geo-blocked? Use any free VPN.",
+      "upvotes": 2115,
+      "comments": 540,
+      "flags": [
+        "piracy_domain",
+        "telegram_channel",
+        "ppv_bypass"
+      ],
+      "urls_detected": [
+        "mmastreams.live/ufc309",
+        "t.me/UFCFreeHD"
+      ],
+      "text": "UFC 309 free stream thread (no PPV needed) PPV is a scam. Watch UFC 309 free: mmastreams.live/ufc309 — Telegram: t.me/UFCFreeHD. 720p and 1080p options. Geo-blocked? Use any free VPN. mmastreams.live/ufc309 t.me/UFCFreeHD"
+    },
+    {
+      "id": "post_005",
+      "platform": "x",
+      "asset_id": "demo_asset",
+      "user": "some_user_name",
+      "handle": "@FreeStreamBot",
+      "timestamp": "2024-09-14T17:55:00Z",
+      "body": "🔴 LIVE NOW: Man City vs Real Madrid — FREE HD stream 👇 streamgoal.to/mancity-rm | mirror: hdstreams.cc/ucl No buffering guaranteed. RT to help others! #UCL #ManCity",
+      "likes": 8732,
+      "retweets": 4120,
+      "flags": [
+        "piracy_domain",
+        "illegal_stream_link"
+      ],
+      "urls_detected": [
+        "streamgoal.to/mancity-rm",
+        "hdstreams.cc/ucl"
+      ],
+      "text": "🔴 LIVE NOW: Man City vs Real Madrid — FREE HD stream 👇 streamgoal.to/mancity-rm | mirror: hdstreams.cc/ucl No buffering guaranteed. RT to help others! #UCL #ManCity streamgoal.to/mancity-rm hdstreams.cc/ucl"
+    },
+    {
+      "id": "post_006",
+      "platform": "x",
+      "asset_id": "demo_asset",
+      "user": "some_user_name",
+      "handle": "@IPTVdeals_",
+      "timestamp": "2024-09-05T11:22:37Z",
+      "body": "⚡ SportzTv IPTV — 1 month £4.99, 12 months £24.99. 20,000+ channels incl. Sky Sports, TNT Sports, ESPN+. Order: sportztviptv.com | Telegram support: t.me/SportzTvSupport #IPTV #PremierLeague #sports",
+      "likes": 312,
+      "retweets": 89,
+      "flags": [
+        "iptv_service",
+        "telegram_channel",
+        "illegal_rebroadcast"
+      ],
+      "urls_detected": [
+        "sportztviptv.com",
+        "t.me/SportzTvSupport"
+      ],
+      "text": "⚡ SportzTv IPTV — 1 month £4.99, 12 months £24.99. 20,000+ channels incl. Sky Sports, TNT Sports, ESPN+. Order: sportztviptv.com | Telegram support: t.me/SportzTvSupport #IPTV #PremierLeague #sports sportztviptv.com t.me/SportzTvSupport"
+    },
+    {
+      "id": "post_007",
+      "platform": "x",
+      "asset_id": "demo_asset",
+      "user": "some_user_name",
+      "handle": "@sport_leakzz",
+      "timestamp": "2024-09-21T14:03:19Z",
+      "body": "Just uploaded the FULL match replay — Argentina vs Brazil (no commentary cut). Available on our Telegram: t.me/SoccerReplaysHD. Also on: goatreplay.net/arg-bra. Like & follow for daily uploads 🏆",
+      "likes": 5441,
+      "retweets": 2200,
+      "flags": [
+        "telegram_channel",
+        "piracy_domain",
+        "full_match_leak"
+      ],
+      "urls_detected": [
+        "t.me/SoccerReplaysHD",
+        "goatreplay.net/arg-bra"
+      ],
+      "text": "Just uploaded the FULL match replay — Argentina vs Brazil (no commentary cut). Available on our Telegram: t.me/SoccerReplaysHD. Also on: goatreplay.net/arg-bra. Like & follow for daily uploads 🏆 t.me/SoccerReplaysHD goatreplay.net/arg-bra"
+    },
+    {
+      "id": "post_008",
+      "platform": "x",
+      "asset_id": "demo_asset",
+      "user": "some_user_name",
+      "handle": "@hdstream_alerts",
+      "timestamp": "2024-09-29T19:40:00Z",
+      "body": "🏀 NBA Opening Night — Lakers vs Celtics — 3 FREE streams: 1⃣ nbafreestream.co/lal-bos 2⃣ sportshd.me/nba-opener 3⃣ Telegram 👉 t.me/NBAStream_HD Quality: 720p / 1080p. Enjoy! #NBAOpeningNight",
+      "likes": 6892,
+      "retweets": 3300,
+      "flags": [
+        "piracy_domain",
+        "telegram_channel",
+        "illegal_stream_link"
+      ],
+      "urls_detected": [
+        "nbafreestream.co/lal-bos",
+        "sportshd.me/nba-opener",
+        "t.me/NBAStream_HD"
+      ],
+      "text": "🏀 NBA Opening Night — Lakers vs Celtics — 3 FREE streams: 1⃣ nbafreestream.co/lal-bos 2⃣ sportshd.me/nba-opener 3⃣ Telegram 👉 t.me/NBAStream_HD Quality: 720p / 1080p. Enjoy! #NBAOpeningNight nbafreestream.co/lal-bos sportshd.me/nba-opener t.me/NBAStream_HD"
+    }
+  ]
+}
